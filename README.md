@@ -5,7 +5,7 @@ Agile Project Manager and Product Owner
   <a href="https://www.linkedin.com/in/nunofilipegomessantos/">
     <img align="left" alt="Nuno Santos | LinkedIn" width="24px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/LinkedIn.svg" />
   </a>
-  <a href="mailto:nunofilipesantos@gmail.com">
+  <a href="mailto:nunofilipesantosATgmail.com">
     <img align="left" alt="Nuno Santos | GMail" width="26px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/GMail.svg" />
   </a>
   <a href="https://twitter.com/NunoFSantos">
