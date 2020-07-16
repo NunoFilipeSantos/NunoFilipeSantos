@@ -1,4 +1,4 @@
-### Nuno Santos
+## Nuno Santos
 Agile Project Manager and Product Owner
 
 <br>
