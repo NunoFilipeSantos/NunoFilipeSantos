@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 * Agile Connect Porto
 * Product Management Nights, Porto
 * A Scrum Book Meetup Porto 
-* Liberating Structures - Portugal (North)
 * Porto Startup Coffee
 * Fullstack Porto
