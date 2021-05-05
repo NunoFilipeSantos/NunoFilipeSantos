@@ -1,5 +1,5 @@
 ## Nuno Santos
-Agile Project Manager and Product Owner
+Product Owner / Manager
 
 <br>
   <a href="https://www.linkedin.com/in/nunofilipegomessantos/">
