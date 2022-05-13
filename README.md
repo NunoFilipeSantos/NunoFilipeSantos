@@ -18,8 +18,8 @@ Senior Product Owner / Manager
 * 2019: Product owner @ [SUSE](https://github.com/suse) - Remote
 * 2018: Agile Project Manager @ [SUSE](https://github.com/suse) - Remote
 * 2018: Agile Project Manager and GDPR Expert @ Ideoma - Gaia, Portugal
-* 2016: Makerspace Coordinator & Tech Leader @ Faculty of Engineering of the University of Porto
-* 2015: Research Engineer @ Faculty of Engineering of the University of Porto
+* 2016: Makerspace Coordinator & Tech Leader @ [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
+* 2015: Research Engineer @ [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
 * 2014: Junior Engineer @ [TomTom](https://github.com/tomtom-international) - Remote
 * 2013: Technical Project Manager @ Self-employed - Remote
 
