@@ -1,5 +1,5 @@
 ## Nuno Santos
-Senior Product Owner / Manager
+Senior Product Manager
 
 <br>
   <a href="https://www.linkedin.com/in/nunofilipegomessantos/">
