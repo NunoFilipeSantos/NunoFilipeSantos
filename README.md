@@ -15,7 +15,7 @@ Senior Product Manager
 
 ## 🏢 Experience
 * 2020: Senior Product Manager @ [Timescale](https://github.com/timescale) - Remote
-* 2019: Product owner @ [SUSE](https://github.com/suse) - Remote
+* 2019: Product Owner @ [SUSE](https://github.com/suse) - Remote
 * 2018: Agile Project Manager @ [SUSE](https://github.com/suse) - Remote
 * 2018: Agile Project Manager and GDPR Expert @ Ideoma - Gaia, Portugal
 * 2016: Makerspace Coordinator & Tech Leader @ [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
