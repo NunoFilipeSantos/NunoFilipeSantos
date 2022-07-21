@@ -15,7 +15,7 @@ Senior Product Manager
 
 ## 🏢 Experience
 * 2020-2022: Senior Product Manager @ [Timescale](https://github.com/timescale) - Remote
-  * Product Manager for the TimescaleDB the open-source relational database for time-series and analytics. (PostgreSQL extension) 
+  * Product Manager for the [TimescaleDB](https://github.com/timescale/timescaledb/releases) the open-source relational database for time-series and analytics. (PostgreSQL extension) 
 * 2019-2019: Product Owner @ [SUSE](https://github.com/suse) - Remote
 * 2018-2019: Agile Project Manager @ [SUSE](https://github.com/suse) - Remote
   * Project Manager for the SUSE Container as a Service Platform (CaaS Platform), a project which enables users to provision, manage, and scale container-based applications and services.
