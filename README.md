@@ -45,7 +45,7 @@ Helping social entrepreneurs to organize their ideas and present their concepts 
 * English: Full professional proficiency
 * Portuguese: Native proficiency
 * Spanish: Limited working proficiency
-* French: Limited working proficiency
+* French: Elementary proficiency
 * German: Elementary proficiency
 
 <!--
