@@ -22,8 +22,8 @@
   * A very talented remote team developed this project in several time zones.
 * #### 2018-2018: Agile Project Manager and GDPR Expert @ Ideoma - Gaia, Portugal
   * I was responsible for managing more than 50 web projects, most of them were related to e-commerce with several big companies. 
-At the same time, I have also implemented several tools, automation, methodologies, and workflows to facilitate work in our company and for our customers.
-I have aided the company and our customers with subjects like GDPR by investigating European legislation and seeking advice from experts in this field.
+  * At the same time, I have also implemented several tools, automation, methodologies, and workflows to facilitate work in our company and for our customers.
+  * I have aided the company and our customers with subjects like GDPR by investigating European legislation and seeking advice from experts in this field.
 * #### 2016-2018: Makerspace Coordinator & Tech Leader @ [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
   * Developing ways of teaching Agile, SCRUM, & Computer Science to kids.
 Helping social entrepreneurs to organize their ideas and present their concepts to LDSO students.
