@@ -19,14 +19,14 @@
   * Timescale has reached the unicorn status by [raising $110 million to build the future of data for developers worldwide](https://www.timescale.com/blog/year-of-the-tiger-110-million-to-build-the-future-of-data-for-developers-worldwide/)
 * #### 2019-2020: Product Owner @ [SUSE](https://github.com/suse) - Remote
 * #### 2018-2019: Agile Project Manager @ [SUSE](https://github.com/suse) - Remote
-  * Project Manager for the [SUSE Container as a Service Platform](https://www.suse.com/releasenotes/x86_64/SUSE-CAASP/4.5/index.html) (CaaS Platform), a project which enables users to provision, manage, and scale container-based applications and services.
+  * Project Manager for the [SUSE Container as a Service Platform](https://www.suse.com/releasenotes/x86_64/SUSE-CAASP/4.5/index.html) (CaaS Platform), an open-source project which enables users to provision, manage, and scale container-based applications and services.
   * A very talented remote team developed this project in several time zones.
 * #### 2018-2018: Agile Project Manager and GDPR Expert @ Ideoma - Gaia, Portugal
-  * I was responsible for managing more than 50 web projects, most of them were related to e-commerce with several big companies. 
+  * I was responsible for managing more than 50 web projects with open-source software, most of them were related to e-commerce with several big companies. 
   * At the same time, I have also implemented several tools, automation, methodologies, and workflows to facilitate work in our company and for our customers.
   * I have aided the company and our customers with subjects like GDPR by investigating European legislation and seeking advice from experts in this field.
 * #### 2016-2018: Makerspace Coordinator & Tech Leader @ [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
-  * Developing ways of teaching Agile, SCRUM, & Computer Science to kids.
+  * Developing ways of teaching Agile, SCRUM, & Computer Science to kids with open-source software.
 Helping social entrepreneurs to organize their ideas and present their concepts to LDSO students.
   * Also responsible for coordinating 3 activities related to computer science, during one month, with 6 students of Engineering responsible for lecturing 650+ high school students.
 * #### 2015-2016: Research Engineer @ [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
@@ -36,7 +36,7 @@ Helping social entrepreneurs to organize their ideas and present their concepts 
 * #### 2014-2014: Junior Engineer @ [TomTom](https://github.com/tomtom-international) - Remote
   * Correcting and flagging bugs in TOMTOM's Maps (Android).
 * #### 2013-2015: Technical Project Manager @ Self-employed - Remote
-  * I was responsible for managing several web projects mostly related to making a business grow and prosper in a web environment.
+  * I was responsible for managing several web projects mostly related to making a business grow and prosper in a web environment with open-source software.
 
 
 ## 🎓 Education
