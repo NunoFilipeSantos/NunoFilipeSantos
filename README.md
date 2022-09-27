@@ -15,9 +15,9 @@
 
 ## 🏢 Experience
 * #### 2022-Present: Technical Product Manager @ [Ethereum Foundation](https://github.com/ethereum) - Remote
-  * TPM for [Solidity](https://github.com/ethereum/solidity)
+  * TPM for the [Solidity](https://github.com/ethereum/solidity) team.
 * #### 2020-2022: Senior Product Manager @ [Timescale](https://github.com/timescale) - Remote
-  * Product Manager for the [TimescaleDB](https://github.com/timescale/timescaledb/releases) the open-source relational database for time-series and analytics. (PostgreSQL extension) 
+  * Product Manager for [TimescaleDB](https://github.com/timescale/timescaledb/releases) the open-source relational database for time-series and analytics. (PostgreSQL extension) 
   * Timescale has reached the unicorn status by [raising $110 million to build the future of data for developers worldwide](https://www.timescale.com/blog/year-of-the-tiger-110-million-to-build-the-future-of-data-for-developers-worldwide/)
 * #### 2019-2020: Product Owner @ [SUSE](https://github.com/suse) - Remote
 * #### 2018-2019: Agile Project Manager @ [SUSE](https://github.com/suse) - Remote
