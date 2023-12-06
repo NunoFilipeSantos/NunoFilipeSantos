@@ -14,7 +14,8 @@
 <br>
 
 ## 🏢 Experience
-* #### 2022-Present: Technical Product Manager @ [Ethereum Foundation](https://github.com/ethereum) - Remote
+* #### 2023-Present: Technical Product Manager @ [Biconomy](https://github.com/bcnmy) - Remote
+* #### 2022-2023: Technical Product Manager @ [Ethereum Foundation](https://github.com/ethereum) - Remote
   * TPM for the [Solidity](https://github.com/ethereum/solidity) team.
 * #### 2020-2022: Senior Product Manager @ [Timescale](https://github.com/timescale) - Remote
   * Product Manager for [TimescaleDB](https://github.com/timescale/timescaledb/releases) the open-source relational database for time-series and analytics. (PostgreSQL extension) 
