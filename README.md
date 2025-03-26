@@ -14,7 +14,9 @@
 <br>
 
 ## 🏢 Experience
-* #### 2023-Present: Technical Product Manager @ [Biconomy](https://github.com/bcnmy) - Remote
+* #### 2023-Present: Co-founder and Product Lead - Remote
+  * Building Smart Homes on Apple's HomeKit, Google Home, Alexa and Home Assistant ecosystems.
+  * Web3 Product Consultancy on EIP-4337, EIP-7702, dApps product integrations.
 * #### 2022-2023: Technical Product Manager @ [Ethereum Foundation](https://github.com/ethereum) - Remote
   * TPM for the [Solidity](https://github.com/ethereum/solidity) team.
 * #### 2020-2022: Senior Product Manager @ [Timescale](https://github.com/timescale) - Remote
