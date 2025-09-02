@@ -9,7 +9,7 @@
     <img align="left" alt="Nuno Santos | GMail" width="26px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/GMail.svg" />
   </a>
   <a href="https://twitter.com/NunoFSantos">
-    <img align="left" alt="Nuno Santos | X" width="26px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/X.svg" />
+    <img align="left" alt="Nuno Santos | X" width="26px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/X.webp" />
   </a>  
 <br>
 
