@@ -9,13 +9,13 @@
     <img align="left" alt="Nuno Santos | GMail" width="26px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/GMail.svg" />
   </a>
   <a href="https://twitter.com/NunoFSantos">
-    <img align="left" alt="Nuno Santos | Twitter" width="26px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/Twitter.svg" />
+    <img align="left" alt="Nuno Santos | X" width="26px" src="https://github.com/NunoFilipeSantos/NunoFilipeSantos/blob/master/X.svg" />
   </a>  
 <br>
 
 ## 🏢 Experience
 * #### 2023-Present: Co-founder and Product Lead - Remote
-  * Building Smart Homes on Apple's HomeKit, Google Home, Alexa and Home Assistant ecosystems.
+  * Building Smart Homes on Matter with Apple's HomeKit, Google Home, Alexa and Home Assistant ecosystems.
   * Web3 Product Consultancy on EIP-4337, EIP-7702, dApps product integrations.
 * #### 2022-2023: Technical Product Manager @ [Ethereum Foundation](https://github.com/ethereum) - Remote
   * TPM for the [Solidity](https://github.com/ethereum/solidity) team.
